@@ -1,0 +1,57 @@
+#main{
+	height: 45px;
+	width: 100%;
+	background: white;
+	border-bottom:2px solid black;
+	box-shadow: 1px 1px 1px 1px lightblue;
+	font-size: 35px;
+	color: white;
+	text-shadow: 1px 2px 4px black;
+	font-weight: bold;
+
+}
+#user{
+height: 500px;
+}
+#left{
+	float: left;
+	width: 50%;
+	font-size: 80%;
+	height: 500px;
+	border:1px solid red;
+
+}
+#right{
+	float: right;
+	width: 50%;
+	font-size: 80%;
+	height: 500px;
+	border:1px solid black;
+}
+.branch{
+	height: 50px;
+	width: 50%;
+	margin-top: 10%;
+	background: white;
+	border-radius: 10px;
+	box-shadow: 2px 2px 3px black;
+	font-size: 50%;
+}
+#intro{
+	color: black;
+	text-shadow: none;
+	border: 1px solid black;
+	font-size: 20px;
+	height: 50px;
+
+}
+*{
+	border: none;
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+button:hover{
+	background: black;
+	color: white;
+}
